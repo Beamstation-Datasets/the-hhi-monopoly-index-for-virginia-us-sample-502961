@@ -1,0 +1,22 @@
+{
+  "base_price": 4995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for Virginia, US",
+  "export_job_id": "dbeff389-e7c8-48f4-90d6-98917b6ce30a",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 502961,
+  "location_name": "Virginia",
+  "location_type": "state",
+  "repo_name": "the-hhi-monopoly-index-for-virginia-us-sample-502961",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/502961/beamstation_502961_restaurants-us-va_SAMPLE_DIST.csv",
+  "sample_pct": 9.92,
+  "sample_records": 71,
+  "sample_sha256": "424d015fa3e84074224327a5a78509fea9b96d963967dc0aac60a8c230124480",
+  "sample_size_bytes": 295700,
+  "total_records": 716,
+  "updated_at": "2026-04-07T18:20:47.353692+00:00"
+}
