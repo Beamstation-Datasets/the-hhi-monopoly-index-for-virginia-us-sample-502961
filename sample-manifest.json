@@ -1,12 +1,12 @@
 {
-  "export_job_id": "dbeff389-e7c8-48f4-90d6-98917b6ce30a",
+  "export_job_id": "19b3fa1f-6836-493c-b179-31c5efa01c5a",
   "id_short": 502961,
-  "published_at": "2026-04-13T19:06:05Z",
+  "published_at": "2026-04-18T19:15:36Z",
   "repo_name": "the-hhi-monopoly-index-for-virginia-us-sample-502961",
   "sample_asset_name": "beamstation_502961_restaurants-us-va_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/502961/beamstation_502961_restaurants-us-va_SAMPLE_DIST.csv",
-  "sample_records": 71,
-  "sample_sha256": "424d015fa3e84074224327a5a78509fea9b96d963967dc0aac60a8c230124480",
-  "sample_size_bytes": 295700,
-  "total_records": 716
+  "sample_records": 63,
+  "sample_sha256": "9aee552ecf5954c753414814bc85cd134eb40c4f5a1d6917d9f8259e331b1d73",
+  "sample_size_bytes": 267774,
+  "total_records": 639
 }
