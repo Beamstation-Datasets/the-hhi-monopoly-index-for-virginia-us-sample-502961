@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Virginia, US
 
-> Free BeamStation sample export with 47 rows and masked direct-contact fields.
+> Free BeamStation sample export with 59 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `502961` |
 | Location | Virginia |
 | Category | Restaurants |
-| Full dataset size | 470 records |
-| Free sample size | 47 records (10.0%) |
-| Last export | 2026-04-22T03:17:07.643699+00:00 |
+| Full dataset size | 592 records |
+| Free sample size | 59 records (9.97%) |
+| Last export | 2026-04-29T06:07:57.445331+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-virginia-us-sample-502961/releases/download/sample-latest/beamstation_502961_restaurants-us-va_SAMPLE_DIST.csv) |
 
 ## What is in this sample
